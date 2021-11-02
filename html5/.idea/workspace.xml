@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="9b33e9b6-02c9-4233-b606-597d5cbd8206" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +23,10 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -30,7 +37,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1634717019453</updated>
-      <workItem from="1634717020618" duration="526000" />
+      <workItem from="1634717020618" duration="649000" />
+      <workItem from="1634717687767" duration="265000" />
+      <workItem from="1635281876007" duration="1940000" />
     </task>
     <servers />
   </component>
