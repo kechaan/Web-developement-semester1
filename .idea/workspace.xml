@@ -13,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -34,6 +34,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/CSS2/opdracht 2.html" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -51,7 +52,9 @@
       <updated>1635318867996</updated>
       <workItem from="1635318869259" duration="2918000" />
       <workItem from="1635324152978" duration="354000" />
-      <workItem from="1635842870618" duration="12744000" />
+      <workItem from="1635842870618" duration="15773000" />
+      <workItem from="1636108546846" duration="5811000" />
+      <workItem from="1636143766319" duration="14754000" />
     </task>
     <servers />
   </component>
