@@ -1,6 +1,6 @@
 table {
     border: 5px solid black;
-    border-spacing: 0px;
+    border-spacing: 0;
 }
 tbody tr {
     border: 1px dashed black;
@@ -26,6 +26,14 @@ thead td {
 tbody tr td.vorig {
     background-color: grey;
 }
-tbody tr :first-child, tbody tr :last-child {
+tbody tr :first-child {
     background-color: rgb(255, 220, 220);
+    border-left: none;
+}
+tbody tr :last-child {
+    background-color: rgb(255, 220, 220);
+    border-right: none;
+}
+.border td{
+    border-bottom: none;
 }
