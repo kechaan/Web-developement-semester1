@@ -6,7 +6,7 @@ tbody tr {
     border: 1px dashed black;
 }
 th {
-    background-color: rgb(170, 170, 200)
+    background-color: rgb(170, 170, 200);
 }
 td {
     border: 1px dotted black;
@@ -14,6 +14,7 @@ td {
 thead td {
     background-color: rgb(35, 37, 70);
     color: rgb(200, 190, 240);
+    border: 1px solid rgb(170, 170, 200);
 }
 
 .vrij {
