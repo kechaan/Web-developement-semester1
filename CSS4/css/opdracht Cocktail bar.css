@@ -1,0 +1,84 @@
+body{
+    font-family: Verdana, Helvetica, Arial, serif ;
+    font-size: 1.2em;
+    width: 95%;
+    margin: auto;
+}
+header, footer, article{
+    display: block;
+}
+
+.header{
+    margin: auto;
+    display: block;
+}
+.rechts{
+    float: right;
+    width: calc(30% - 15px);
+    box-sizing: border-box;
+    border: 2px solid rgb(0, 126, 126);
+    margin-left: 15px;
+    padding: 10px;
+    text-align: center;
+}
+#lemon{
+    color: yellow;
+}
+#chai {
+    color: orange;
+}
+#brain {
+    color: red;
+}
+a{
+    color: black;
+}
+.rechts a:hover{
+    background-color: brown;
+}
+.cocktail{
+    background-image: url("img/cocktail.gif");
+    background-attachment: fixed;
+    background-position: top    ;
+}
+
+.links {
+    float:left;
+    width: 70%;
+    box-sizing: border-box;
+}
+.links h1{
+    color: rgb(0, 126, 126);
+    font-size: 150%;
+}
+.links h2 {
+    color: rgb(0, 126, 126);
+    font-size: 130%;
+}
+#guarantee{
+    margin: 30px;
+    padding: 20px 20px 20px 60px;
+    border: 3px white dotted;
+    background-size: 60px;
+    color: rgb(68, 68, 68);
+    background-color: rgb(167, 206, 206);
+    background-image: url("img/background.gif");
+    background-repeat: no-repeat;
+}
+#link{
+    color: rgb(68, 68, 68);
+}
+.cursief{
+    font-style: italic;
+}
+.bold{
+    font-weight: bold;
+}
+
+footer{
+    clear: both;
+    text-align: center;
+    font-size: 50%;
+    margin-top: 1300px;
+    margin-bottom: 20px;
+}
