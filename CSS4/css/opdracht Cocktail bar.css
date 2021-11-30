@@ -36,10 +36,9 @@ a{
 .rechts a:hover{
     background-color: brown;
 }
-.cocktail{
+.rechts{
     background-image: url("img/cocktail.gif");
-    background-attachment: fixed;
-    background-position: top    ;
+    background-repeat: repeat-x;
 }
 
 .links {
@@ -79,6 +78,6 @@ footer{
     clear: both;
     text-align: center;
     font-size: 50%;
-    margin-top: 1300px;
-    margin-bottom: 20px;
+    padding-top: 50px;
+    padding-bottom: 20px;
 }
