@@ -1,0 +1,13 @@
+.grey1 {
+    background-color: lightgray;
+    height: 250px;
+    border: 5px solid white;
+    margin-bottom: 20px;
+}
+.grey2 {
+    background-color: darkgray;
+    height: 250px;
+    border: 5px solid white;
+    margin-bottom: 20px;
+}
+
